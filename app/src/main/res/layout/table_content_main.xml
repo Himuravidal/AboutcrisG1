@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:showIn="@layout/content_main">
+
+
+    <TableRow>
+
+        <TextView
+            style="@style/CustomTable.row"
+            android:text="Años de experiencia" />
+
+        <TextView
+            style="@style/CustomTable.Header"
+            android:text="0,1 " />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+          style="@style/CustomTable.row"
+           android:text="Nivel de Motivación"
+            />
+
+        <TextView
+            style="@style/CustomTable.row"
+            android:text=" Extremadamente alta" />
+
+    </TableRow>
+</merge>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Cristian Vidal</string>
+   <string name="hola"> Hola, Soy Cristian Vidal, Ingeniero en Telecomunicaciones, Apasionado por las tecnologías de la información, decidí convertirme en desarrollador Android, comenzando este nuevo camino con muchas ganas y entusiasmo, Aprendiendo cosas nuevas cada dia.
+ </string>
+    <string name="hola2"> "Aun no tengo Experiencia, pero si las ganas." </string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
